@@ -1,0 +1,19 @@
+# i = 0
+# while(i <= 60):
+#     i+=1
+#     print(i)
+#     time.sleep(1)
+#     if(i == 5): 
+#         pygame.init()
+#         pygame.mixer.init()
+#         sounda= pygame.mixer.Sound("jobs.mp3")
+#         sounda.play()
+#         user = input("Are you done with the task (y/n) : ")
+#         user = user.lower()
+#         if(user == 'y'):
+#             break
+#         else:
+#             pass   
+#         time.sleep (1000000)
+       
+         
