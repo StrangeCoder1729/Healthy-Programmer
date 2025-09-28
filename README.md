@@ -6,4 +6,3 @@ Basic Summary of the code :-
 > Every 45 minutes a song will be played to remind you that you have to do physical exercise and, 
 > Every 1 hour a song will be played to remind you that you have to drink 2 cups of water
 
-Mentor : Code With Harry
